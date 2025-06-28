@@ -1,0 +1,92 @@
+  # Python
+  __pycache__/
+  *.py[cod]
+  *$py.class
+  *.so
+  .Python
+  build/
+  develop-eggs/
+  dist/
+  downloads/
+  eggs/
+  .eggs/
+  lib/
+  lib64/
+  parts/
+  sdist/
+  var/
+  wheels/
+  pip-wheel-metadata/
+  share/python-wheels/
+  *.egg-info/
+  .installed.cfg
+  *.egg
+  MANIFEST
+
+  # PyInstaller
+  *.manifest
+  *.spec
+
+  # Unit test / coverage reports
+  htmlcov/
+  .tox/
+  .nox/
+  .coverage
+  .coverage.*
+  .cache
+  nosetests.xml
+  coverage.xml
+  *.cover
+  *.py,cover
+  .hypothesis/
+  .pytest_cache/
+
+  # Virtual environments
+  .env
+  .venv
+  env/
+  venv/
+  ENV/
+  env.bak/
+  venv.bak/
+
+  # IDE
+  .vscode/
+  .idea/
+  *.swp
+  *.swo
+  *~
+
+  # Logs
+  *.log
+  logs/
+  ai_director.log
+  orchestrator.log
+  roadmap_intelligence.log
+  roadmap_creator.log
+  agent_optimizer.log
+
+  # OS
+  .DS_Store
+  .DS_Store?
+  ._*
+  .Spotlight-V100
+  .Trashes
+  ehthumbs.db
+  Thumbs.db
+
+  # Configuración sensible
+  config.json
+  secrets.json
+  .env.local
+  .env.production
+
+  # Archivos temporales del sistema
+  *.tmp
+  *.temp
+  temp/
+  tmp/
+
+  # Twilio/WhatsApp credentials
+  twilio_config.json
+  whatsapp_credentials.json

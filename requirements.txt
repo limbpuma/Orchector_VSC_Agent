@@ -1,0 +1,42 @@
+ # AI Director + Orchestrator + Agent Optimizer System
+  # Sistema completo de gestión inteligente para múltiples VS Code instances
+
+  # Core dependencies
+  asyncio>=3.4.3
+  psutil>=5.9.0
+  requests>=2.28.0
+
+  # Windows automation
+  pywin32>=304
+  pyautogui>=0.9.54
+
+  # GUI para dashboard
+  # tkinter - Incluido en Python estándar
+
+  # Logging y utilidades
+  python-dateutil>=2.8.2
+
+  # WhatsApp/SMS integration
+  twilio>=8.10.0
+
+  # GitHub API
+  PyGithub>=1.58.0
+
+  # Configuración avanzada
+  pyyaml>=6.0
+  python-dotenv>=1.0.0
+
+  # File processing
+  markdown>=3.5.0
+  pathlib2>=2.3.7
+
+  # Data handling para Python < 3.7
+  dataclasses>=0.6
+  enum34>=1.1.10
+
+  # Opcional: Monitoreo de rendimiento
+  memory-profiler>=0.61.0
+
+  # Opcional: Machine Learning para optimización avanzada
+  scikit-learn>=1.3.0
+  numpy>=1.24.0
